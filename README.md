@@ -304,3 +304,5 @@ Defining color thresholds and alert triggers for critical metrics.
 # ⚖️ License
 
 This project is licensed under the MIT License.
+
+Updated and maintained by Khawalid Mehmood.
